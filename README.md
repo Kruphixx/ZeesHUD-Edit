@@ -1,4 +1,4 @@
-### THIS HUD IS GROSSLY UNOPTIMIZED AND CAN TANK YOUR PERFORMANCE. USE AT YOUR OWN RISK
+## ZeesHUD edit for perfomance testing purposes. Checking if significantly reducing usage of #base will do something.
 
 # ZeesHUD
 The (in)famous TF2 HUD that looks like Persona 5's UI.
